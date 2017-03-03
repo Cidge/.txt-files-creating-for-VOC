@@ -1,4 +1,4 @@
-# Test-txt-files-for-Pascal-Vol
+# .txt-files-creating-for-VOC
 This is a simple python program for the four .txt file in ImageSets/Main document creating, which is used to build your train sets for Faster R-CNN.  
 The proportion of each part of sets should be：  
 
